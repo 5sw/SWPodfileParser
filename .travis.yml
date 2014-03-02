@@ -1,3 +1,4 @@
 language: objective-c
 xcode_workspace: SWPodfileParser.xcworkspace
 xcode_scheme: Demo
+rvm: 1.9.3
